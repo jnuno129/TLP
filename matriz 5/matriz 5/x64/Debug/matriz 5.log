@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\xxgam\source\repos\matriz 5\matriz 5\FileName.cpp(3,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\xxgam\source\repos\matriz 5\matriz 5\FileName.cpp(13,16): error C2059: erro de sintaxe: '='

@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\xxgam\source\repos\Matriz 4\Matriz 4\FileName.cpp(7,13): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\xxgam\source\repos\Matriz 4\Matriz 4\FileName.cpp(9,12): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+  Matriz 4.vcxproj -> C:\Users\xxgam\source\repos\Matriz 4\x64\Debug\Matriz 4.exe
